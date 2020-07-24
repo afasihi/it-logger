@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Changed GPU new dell desktop",
+      "tech": "Aziz boudarbala",
+      "attention": true,
+      "date": "2020-07-24T14:59:59.628Z"
+    },
+    {
+      "id": 3,
+      "message": "test123456",
+      "tech": "noufl lbanani",
+      "attention": false,
+      "date": "2020-07-24T18:05:31.126Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Aziz",
+      "lastname": "Boudarbala"
+    },
+    {
+      "firstName": "Hamid",
+      "lastName": "siklis",
+      "id": 2
+    },
+    {
+      "firstName": "noufl",
+      "lastName": "lbanani",
+      "id": 3
+    }
+  ]
+}
